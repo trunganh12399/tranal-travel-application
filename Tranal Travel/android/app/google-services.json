@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862045582289",
+    "project_id": "bds-mobile-9a9d8",
+    "storage_bucket": "bds-mobile-9a9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862045582289:android:5e08b4988bfc803568a6f0",
+        "android_client_info": {
+          "package_name": "com.bds_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862045582289-7lrqvbe28g77te3bmg94rjc97j3l3u8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABd31Ks8CyJn05jLfqVkQFgnFGWGTDIK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862045582289-7lrqvbe28g77te3bmg94rjc97j3l3u8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
